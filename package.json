@@ -1,0 +1,22 @@
+{
+  "name": "javascript-1",
+  "version": "1.0.0",
+  "description": "Debes determinar que el número que mandan en la función, sea primo o no.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Facebook-Developers-Circle-CDMX/Javascript-1.git"
+  },
+  "author": "Joshua Pedraza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Facebook-Developers-Circle-CDMX/Javascript-1/issues"
+  },
+  "homepage": "https://github.com/Facebook-Developers-Circle-CDMX/Javascript-1#readme",
+  "dependencies": {
+    "jest": "^26.0.1"
+  }
+}
