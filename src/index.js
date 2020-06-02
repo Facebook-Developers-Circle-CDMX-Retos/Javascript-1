@@ -5,7 +5,7 @@ const findNumber = function (number) {
       x++;
     }
   }
-  return x <= 2;
+  return x >= 2;
 };
 
 module.exports = findNumber;
