@@ -22,3 +22,5 @@ Para empezar el reto, lo primero que debes hacer es:
 
 Al momento de terminar tu Pull request, se van a correr otra vez las pruebas en Github y si sale una palomita verde, significa que todo esta en orden y que eres un crack. :sunglasses:
 
+NOTA: En tu Pull Request pon tu IG y ususario de Facebook para taggearte
+
