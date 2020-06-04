@@ -1,5 +1,5 @@
 const findNumber = function (number) {
-    //aqui escribiras tu codigo
-}; 
+    return (number == 1 ? false : true);
+};
 
 module.exports = findNumber;
